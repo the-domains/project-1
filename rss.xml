@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[project 1]]></title>
         <description><![CDATA[project 1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/project-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 23:20:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 23:23:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/project-1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.trippy.com/question/California-Road-Trip-from-Los-Angeles-to-Vancouver---Spots-I-cant-miss</p>]]></description>
+            <link>https://thegrid.ai/project-1/httpwwwtrippycomquestioncalifornia-road-trip-from-los/index.html</link>
+            <guid isPermaLink="false">18a7b873-c6b2-458c-a6bc-395ad5f295d3</guid>
+            <pubDate>Fri, 29 Apr 2016 23:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test post</p>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/project-1/test-post/index.html</link>
             <guid isPermaLink="false">2a09d538-2e10-43ed-bca1-87840ece9ba3</guid>
             <pubDate>Fri, 29 Apr 2016 23:19:27 GMT</pubDate>
         </item>
