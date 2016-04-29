@@ -1,0 +1,28 @@
+name: project 1
+favicon: null
+layout_spectrum: 0.8145999237895012
+typography_spectrum: 0.11316758138127625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48413050826638937
+  lightness: 0.6354163286741823
+  saturation: 0.5122781798709184
+  rhythmicContrast: 0.36804610677063465
+purpose: []
